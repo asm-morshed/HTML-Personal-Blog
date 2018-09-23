@@ -1,0 +1,18 @@
+<section id="work">
+        <div class="content-box">
+            <div class="content-title wow animated fadeInDown" data-wow-duration=" 1s" data-wow-delay=".5s">
+                    <h3>
+                        Work
+                    </h3>
+                    <div class="content-title-underline">
+
+            </div>
+        </div>
+        
+        <div class="container">
+            <div class="row wow animated fadeInDown" data-wow-duration=" 1s" data-wow-delay=".5s">
+                <div class="col-md-*"></div>
+        </div>
+        </div>
+        </div>
+    </section>
